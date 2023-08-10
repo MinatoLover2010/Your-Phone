@@ -1,0 +1,132 @@
+.container1{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 50px;
+}
+.img1{
+    display: inline;
+    margin: 10px;
+}
+h1{
+    display: inline;
+    font-weight: bold;
+font-size: 30px;
+}
+li{
+    list-style: none;
+    display: inline;
+    margin: 20px;
+}
+.link1{
+    text-decoration: none;
+    color: black;
+font-size: 30px;
+}
+.link1:hover{
+    color: blue;
+}
+.container2{
+ display: flex;
+ justify-content: space-between;
+ background-color: ghostwhite;
+ margin-top: -50px;
+}
+.param1{
+    color: blue;
+font-size: 30px;
+}
+.param2{
+    font-size: 50px;
+    font-family: inherit;
+}
+.param3{
+    font-size: 50px;
+}
+.param4{
+    font-size: 30px;
+    display: inline;
+}
+button{
+    background-color: rgb(103, 103, 240);
+    color: rgb(0, 0, 0);
+    width: 150px;
+    height: 50px;
+    border: 2px solid rgb(103, 103, 240);
+    border-radius: 10px;
+    font-size: 20px;
+    padding-top:-150px ;
+}
+.link2{
+    color: white;
+    text-decoration: none;
+}
+.param5{
+    display: inline;
+    color: blue;
+    font-size: 30px;
+}
+.container3{
+background-color:ghostwhite;
+padding-top: 80px;
+padding-bottom: 70px;
+
+}
+.param6{
+    font-size: 35px;
+    display: inline;
+}
+.div1{
+    background-color: white;
+    border:solid white 3px ;
+    border-radius: 35px;
+padding: 20px;
+width: 250px;
+height: 250px;
+margin-bottom: 100px;
+}
+.div1:hover{
+    border: solid blue 3px;
+    border-radius: 35px;
+
+}
+.container4{
+    justify-content: space-evenly;
+display: flex;
+background-color:ghostwhite;
+}
+.div2{
+    margin-top: 50px;
+    justify-content: space-around;
+    display: flex;
+}
+.param7{
+    font-size: 35px;
+}
+.img3:hover{
+transform: scale(1.2);
+}
+.div3{
+    justify-content: space-around;
+    display: flex;
+    padding: bottom 60px; ;
+}
+.link3{
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    
+}
+.button2{
+    width: 200px;
+    height: 50px;
+
+}
+.container5{
+    background-color: ghostwhite;
+    padding-top: 60px;
+    text-align: center;
+    
+}
+.link4:hover{
+color: blue;
+}
